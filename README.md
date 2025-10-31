@@ -7,6 +7,21 @@ Seeking Full-Time Software Engineer roles starting January 2025. I partner with 
 - Proven impact: reduced operational escalations by ~30%, accelerated slow test suites by up to 90%, and remediated thousands of production defects.
 - Comfortable owning the end-to-end lifecycle: requirements → design → implementation → monitoring → iteration
 
+## 🤝 Contributions 
+Check out [my open-source commits](https://github.com/Ginger-Automation/Ginger/commits?author=manas-droid) to Ginger (automation testing tool)
+
+## 🚀 Projects
+🤖 [History-RAG](https://github.com/manas-droid/History-RAG) - World War I
+- Engineered a modular retrieval-augmented generation (RAG) pipeline for contextual question answering and research over 100+ documents. This system demonstrates end-to-end knowledge of vector databases (ChromaDB), LLMs (Ollama/Mistral), and custom data ingestion, including multilingual OCR.
+ 
+📱 [QuickDefine](https://github.com/manas-droid/Translation-Application) - Android translation + web dashboard
+- Developed the Express/TypeScript backend and API for an instant-translation overlay. Implemented a robust data layer using MongoDB for persistence and utilized Redis + Bull for scalable job queue management and added semantic suggestions with FastText.
+
+
+🔍 [Algorithm Visualizer](https://github.com/manas-droid/maze)
+  - Educational demo showing DFS vs A* tradeoffs; used for teaching algorithmic complexity and heuristics.
+
+
 ## ⚡Highlights
 
 - Reduced production escalations by ~30% by designing and deploying reliable, fault-tolerant .NET 8 services (Rocket Mortgage)
@@ -22,23 +37,6 @@ Seeking Full-Time Software Engineer roles starting January 2025. I partner with 
 - Cloud & infra: AWS Lambda, Terraform, Azure DevOps
 - Testing & observability: MSTest, Selenium, automated test optimization, logging & metrics-driven rollouts
 
-## 🚀 Projects
-
-🤖 [History-RAG](https://github.com/manas-droid/History-RAG) - World War I
-- Engineered a modular retrieval-augmented generation (RAG) pipeline for contextual question answering and research over 100+ documents. This system demonstrates end-to-end knowledge of vector databases (ChromaDB), LLMs (Ollama/Mistral), and custom data ingestion, including multilingual OCR.
- 
-📱 [QuickDefine](https://github.com/manas-droid/Translation-Application) - Android translation + web dashboard
-- Developed the Express/TypeScript backend and API for an instant-translation overlay. Implemented a robust data layer using MongoDB for persistence and utilized Redis + Bull for scalable job queue management and added semantic suggestions with FastText.
-
-
-🔍 [Algorithm Visualizer](https://github.com/manas-droid/maze)
-  - Educational demo showing DFS vs A* tradeoffs; used for teaching algorithmic complexity and heuristics.
-
-
-## 🤝 Contributions 
-Check out my open-source commits to [Ginger (testing tool)](https://github.com/Ginger-Automation/Ginger/commits?author=manas-droid)
-
-
 ## 🎓 Education
 **M.S. in Computer Science**, University at Buffalo - GPA: 3.54/4 · Expected Dec 2025
 
@@ -49,4 +47,5 @@ Check out my open-source commits to [Ginger (testing tool)](https://github.com/G
 
 ## 📊 GitHub stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manas-droid&layout=compact&theme=radical)
+[![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manas-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/manas-droid)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manas-droid&theme=dark)](https://git.io/streak-stats)

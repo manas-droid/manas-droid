@@ -1,6 +1,6 @@
 # Hi - I'm Manas Kalangan
 
-Seeking Full-Time Software Engineer roles starting January 2025. I partner with product and engineering teams to ship reliable backend services and automation that move business metrics - not just code. Check out my [portfolio](https://manas-droid.github.io/)
+Seeking Full-Time Software Engineer roles starting June 2026. I partner with product and engineering teams to ship reliable backend services and automation that move business metrics - not just code. Check out my [portfolio](https://manas-droid.github.io/)
 
 ## About Me 
 - Product-driven engineer with 2+ years of hands-on experience delivering backend systems, infra automation, and developer productivity improvements.

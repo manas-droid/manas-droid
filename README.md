@@ -17,10 +17,16 @@ Check out [my open-source commits](https://github.com/Ginger-Automation/Ginger/c
 - Built runtime Evidence Bundles and a validated Explanation Graph to attach explanations only when supported by traceable evidence, without blocking or distorting retrieval results.
 
  
- [News Feed Service](https://github.com/manas-droid/System-Design-Interview-Practice/tree/main/tiny-news-feed-service) - _Twitter-like Timeline Service_ : [demo](https://www.youtube.com/watch?v=rp9CgLkcPys&pp=0gcJCU0KAYcqIYzv)
+[News Feed Service](https://github.com/manas-droid/System-Design-Interview-Practice/tree/main/tiny-news-feed-service) - _Twitter-like Timeline Service_ : [demo](https://www.youtube.com/watch?v=rp9CgLkcPys&pp=0gcJCU0KAYcqIYzv)
 - Designed and implemented a scalable news feed service, modeling Twitter-style timelines with a hybrid fan-out strategy to efficiently support both normal users and high-follower users.
 - Implemented an asynchronous write pipeline that persists posts and offloads fan-out processing to Kafka consumers.
 - Developed a read-optimized feed service that merges Redis inboxes with the pulled posts from high-follower users.
+
+[Progression Palette](https://github.com/manas-droid/ProgressionPalette) - _Emotion-Aware Music Generation System_ : [demo](https://youtu.be/-GxBzRWfq5g)
+- Designed and built an explainable, emotion-conditioned chord progression generator using Roman numeral harmony and functional analysis, avoiding black-box ML models.
+- Implemented probabilistic sampling over harmonic patterns, ensuring that identical prompts produce variety.
+- Designed an experimental emotion-aware harmonic decoration mechanism that adjusts chord extensions based on interpretable emotional axes
+
 
 ## Highlights
 

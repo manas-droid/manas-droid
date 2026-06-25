@@ -44,7 +44,7 @@ Check out [my open-source commits](https://github.com/Ginger-Automation/Ginger/c
 - Testing & observability: MSTest, Selenium, automated test optimization, logging & metrics-driven rollouts
 
 ## Education
-**M.S. in Computer Science**, University at Buffalo · Expected May 2026
+**M.S. in Computer Science**, University at Buffalo · May'26, GPA: 3.55/4
 
 ## Quick contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-kalangan-35a352175/)

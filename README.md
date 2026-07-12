@@ -1,52 +1,29 @@
 # Hi - I'm Manas Kalangan
 
-Seeking Full-Time Software Engineer roles starting June 2026. I partner with product and engineering teams to ship reliable backend services and automation that move business metrics - not just code. Check out my [portfolio](https://manas-droid.github.io/)
+Software Engineering Intern at Rocket Mortgage, shipping production-grade .NET APIs and distributed systems across 2+ years at Amdocs and Rocket Mortgage. Delivered measurable impact: 90% faster test execution, 30% fewer mortgage escalations, and resolution of 3,000+ production defects across high-scale environments. Seeking Full-Time Software Engineer roles for 2026 - check out my [portfolio](https://manas-droid.github.io/)
 
 ## About Me 
 - Product-driven engineer with 2+ years of hands-on experience delivering backend systems, infra automation, and developer productivity improvements.
 - Proven impact: reduced operational escalations by ~30%, accelerated slow test suites by up to 90%, and remediated thousands of production defects.
-- Comfortable owning the end-to-end lifecycle: requirements → design → implementation → monitoring → iteration
+- Comfortable owning the end-to-end lifecycle: requirements -> design -> implementation -> monitoring -> iteration
+- Increased product quality and release confidence by boosting UI & automation test coverage by 60% (Selenium & MSTest)
+- Redesigned OCR pipeline to improve PDF text clarity by ~40% (Amdocs)
 
 ## Contributions 
 Check out [my open-source commits](https://github.com/Ginger-Automation/Ginger/commits?author=manas-droid) to Ginger (automation testing tool)
 
 ## Projects
-[ArtAtlas](https://github.com/manas-droid/ArtAtlas) - _Explainable Hybrid Art Search Engine_ : [demo](https://www.youtube.com/watch?v=QGAWi0o7jrg)
-- Designed and built a local-first, explainable retrieval system in Python that cleanly separates candidate retrieval, result ordering, and evidence-based explanation into independently auditable layers.
-- Implemented hybrid search using PostgreSQL FTS and vector embeddings (pgvector), augmented with a human-curated concept layer to ensure deterministic behavior without opaque LLM reasoning.
-- Built runtime Evidence Bundles and a validated Explanation Graph to attach explanations only when supported by traceable evidence, without blocking or distorting retrieval results.
+[LegitReach](https://legitreach.com/) - _Reddit Engagement Playbook for Brands_
+- Built and shipped a live SaaS product that analyzes a brand's website and generates a personalized Reddit engagement playbook - which posts to comment on and what content to create, calibrated to each community's culture.
+- Built on Next.js, PostgreSQL, and Redis, with Stripe-powered billing.
 
- 
-[News Feed Service](https://github.com/manas-droid/System-Design-Interview-Practice/tree/main/tiny-news-feed-service) - _Twitter-like Timeline Service_ : [demo](https://www.linkedin.com/feed/update/urn:li:activity:7417611554210254849/)
-- Designed and implemented a scalable news feed service, modeling Twitter-style timelines with a hybrid fan-out strategy to efficiently support both normal users and high-follower users.
-- Implemented an asynchronous write pipeline that persists posts and offloads fan-out processing to Kafka consumers.
-- Developed a read-optimized feed service that merges Redis inboxes with the pulled posts from high-follower users.
+[ArtAtlas](https://github.com/manas-droid/ArtAtlas) - _Explainable Hybrid Art Search Engine_ : [demo](https://www.youtube.com/watch?v=QGAWi0o7jrg)
+- Built a local-first, explainable art search engine that combines keyword and vector search with a human-curated concept layer to show why each result matches, without relying on opaque LLM reasoning.
+- Built with Python, PostgreSQL (FTS + pgvector), and React.
 
 [Progression Palette](https://github.com/manas-droid/ProgressionPalette) - _Emotion-Aware Music Generation System_ : [demo](https://youtu.be/-GxBzRWfq5g)
-- Designed and built an explainable, emotion-conditioned chord progression generator using Roman numeral harmony and functional analysis, avoiding black-box ML models.
-- Implemented probabilistic sampling over harmonic patterns, ensuring that identical prompts produce variety.
-- Designed an experimental emotion-aware harmonic decoration mechanism that adjusts chord extensions based on interpretable emotional axes
-
-
-## Highlights
-
-- Reduced production escalations by ~30% by designing and deploying reliable, fault-tolerant .NET 8 services (Rocket Mortgage)
-- Accelerated test suites by up to 90% by optimizing automation workflows within the open-source Ginger testing framework.
-- Resolved 3,000+ production defects & 300 critical bugs, strengthening reliability and customer trust
-- Increased product quality and release confidence by boosting UI & automation test coverage by 60% (Selenium & MSTest)
-- OCR & docs - Redesigned OCR pipeline to improve PDF text clarity by ~40% (Amdocs testing feature)
-
-## Systems & technical scope 
-
-- Languages & frameworks: C#, .NET (Web API/ASP.NET MVC), Node.js/Express, TypeScript, React, Python
-- Data & storage: SQL Server, MongoDB, Redis, PostgreSQL
-- Cloud & infra: AWS Lambda, Terraform, Azure DevOps
-- Testing & observability: MSTest, Selenium, automated test optimization, logging & metrics-driven rollouts
+- Built an explainable, emotion-conditioned chord progression generator using rule-based Roman numeral harmony and probabilistic sampling instead of black-box ML models.
+- Built with Python, music21, and the Wikifonia dataset.
 
 ## Education
 **M.S. in Computer Science**, University at Buffalo · May'26, GPA: 3.55/4
-
-## Quick contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-kalangan-35a352175/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas-droid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manas.kalangan@gmail.com)
